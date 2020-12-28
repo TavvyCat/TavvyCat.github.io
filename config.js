@@ -50,7 +50,7 @@ window.PorfolioConfig = {
     {
       name: 'The Meme Store',
       link: 'https://arcreactors.github.io/Ecommerce-store-client/',
-      description: 'This is a simple store that "sells" memes. It was a team project wherer we built both the front end and back end. We used Express and Mongoose for the back end and React and Bootstrap for the front end. We also implemented Stripe for the payment.'
+      description: 'This is a simple store that "sells" memes. It was a team project where we built both the front end and back end. We used Express and Mongoose for the back end and React and Bootstrap for the front end. We also implemented Stripe for the payment.'
     },
     {
       name: 'Travel Rehab Specialist Job Site',
