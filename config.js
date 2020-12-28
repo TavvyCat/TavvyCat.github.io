@@ -61,6 +61,11 @@ window.PorfolioConfig = {
       name: 'Tic Tac Toe Game',
       link: 'https://tavvycat.github.io/tic-tac-toe-client/',
       description: 'This is the front end for a simple Tic Tac Toe game where you can sign up for an account and once signed in you can play an infinite amount of games. The API will keep track of all the games you\'ve played. I\'ve also added a computer player that will try to block you when you get 2 in a row.'
+    },
+    {
+      name: 'Burger Builder',
+      link: 'https://burger-builder-6a79e.firebaseapp.com/',
+      description: 'Built Burger Builder app throughout React: The Complete Guide course by Academind on Udemy. Used Redux and Routes. Used Firebase as back end. Learned all about React throughout course.'
     }
   ],
   hobbies: [
