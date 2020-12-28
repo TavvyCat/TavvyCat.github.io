@@ -8,8 +8,8 @@ window.PorfolioConfig = {
       description: 'The most basic language, and the first one many people learn. It is the backbone of web development.'
     },
     {
-      name: 'Bootstrap',
-      description: 'I\'m not the most creative or artistic person. So I like using libraries like Bootstrap for styling.'
+      name: 'CSS',
+      description: 'I\'m not the most creative or artistic person. So I like using libraries like Bootstrap and Material UI for styling, but I know vanilla CSS as well.'
     },
     {
       name: 'JavaScript',
@@ -20,23 +20,37 @@ window.PorfolioConfig = {
       description: 'An amazing JS library (or framework depending on who you ask). It\'s my favorite way to build websites. It so easily combines JS and HTML and makes your code into a very dynamic SPA.'
     },
     {
-      name: 'Node',
+      name: 'Node & Express',
       description: 'JavaScript for the back end. I like working on the backend with Node and Express. And I get to use JS.'
     },
     {
-      name: 'MongoDB',
+      name: 'MongoDB & Mongoose',
       description: 'Mongo is a super fun and simple database, that\'s good for simple requests. Plus, you can use JS with Mongoose.'
     },
     {
       name: 'SQL',
-      description: 'SQL is a great database language. I love the way you can create connected tables.'
+      description: 'SQL is a great database language. I love the way you can create connected tables. I also have some faimliarity with MySQL and PostgreSQL.'
     },
+    {
+      name: 'Python & Django',
+      description: 'I\'m newer with Python and Django, but I used them to build the backend for my capstone project. I am very ready to build this skill more.'
+    }
   ],
   works: [
     {
       name: 'Therapy Nomads Blog',
       link: 'https://therapynomads.com',
       description: 'This is a personal blog recording the travels and adventures for my wife and I. It was built primarily with React. It was built almost from scratch. I utilized Google Firebase to host it and use as a back end for storage and database.'
+    },
+    {
+      name: 'Tavvy\'s Games',
+      link: 'https://tavvycat.github.io/video-games-client/',
+      description: 'An app to help people find their next favorite game. V1 just has a list of user created games, that people can leave reviews on. V2 will have tags on each game, and search features so that you can look based on genre. Built with Django and PostgreSQL for the backend and React and Material UI for the front.'
+    },
+    {
+      name: 'The Meme Store',
+      link: 'https://arcreactors.github.io/Ecommerce-store-client/',
+      description: 'This is a simple store that "sells" memes. It was a team project wherer we built both the front end and back end. We used Express and Mongoose for the back end and React and Bootstrap for the front end. We also implemented Stripe for the payment.'
     },
     {
       name: 'Travel Rehab Specialist Job Site',
