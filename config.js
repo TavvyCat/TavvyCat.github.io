@@ -38,6 +38,11 @@ window.PorfolioConfig = {
   ],
   works: [
     {
+      name: 'Do It Right',
+      link: 'https://rest4-hackathon.github.io/DIR-Client/',
+      description: 'Worked with team during Small Business Hackathon (with Data Scientists and UX designers) to develop a Chrome extension called Do It Right. DIR redirects people from third party companies like Doordash to the restaurants themselves. For those who want to support small business restaurants, this will help them do so. Built with JavaScript and HTML/CSS.'
+    },
+    {
       name: 'Therapy Nomads Blog',
       link: 'https://therapynomads.com',
       description: 'This is a personal blog recording the travels and adventures for my wife and I. It was built primarily with React. It was built almost from scratch. I utilized Google Firebase to host it and use as a back end for storage and database.'
